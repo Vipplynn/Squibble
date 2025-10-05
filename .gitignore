@@ -1,0 +1,47 @@
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# IDE settings
+.vs/
+.idea/
+*.VC.db
+*.VC.VC.opendb
+
+# VS Code settings
+.vscode/
+
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# Packages (if using restore instead)
+packages/
+*.nupkg
+
+# Publish output
+publish/
+out/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Test results
+TestResults/
+*.trx
+
+# Auto-generated files
+GeneratedFiles/
